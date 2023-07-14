@@ -5,5 +5,12 @@
     "database": "omdwqnue",
     "host": "stampy.db.elephantsql.com",
     "dialect": "postgres"
+  },
+  "production": {
+    "username": "omdwqnue",
+    "password": "jXisubn174rY00W4tEaXtazgaFb5oeZr",
+    "database": "omdwqnue",
+    "host": "stampy.db.elephantsql.com",
+    "dialect": "postgres"
   }
 }
