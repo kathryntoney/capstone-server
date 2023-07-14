@@ -1,0 +1,31 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "capstone server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathryntoney/capstone.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.18.2",
+    "jwt-simple": "^0.5.6",
+    "nodemon": "^2.0.22",
+    "passport": "^0.6.0",
+    "passport-jwt": "^4.0.1",
+    "passport-local": "^1.0.0",
+    "pg": "^8.11.1",
+    "pg-hstore": "^2.3.4",
+    "postgres": "^3.3.5",
+    "sequelize": "^6.32.1",
+    "uuid": "^9.0.0",
+    "uuid4": "^2.0.3"
+  }
+}
